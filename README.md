@@ -53,4 +53,3 @@ results should be written, and where run-name should be either
 classifier words in the test set drawn from the most common words in
 Gigaword, or words in the test set drawn at random.
 
-
