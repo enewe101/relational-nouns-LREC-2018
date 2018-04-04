@@ -1,0 +1,8 @@
+
+					prec.	recall
+
+baseline semantic	0.613	0.682	
+baseline syntax		0.585	0.224
+
+custom				0.671	0.841
+
