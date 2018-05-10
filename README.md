@@ -2,9 +2,7 @@
 Public repo for code accompanying the LREC 2018 publication
 
 # Usage
-Note, to function, this code needs a large ~8Gb file containing features for
-tokens derived from a corpus to function.  Please contact
-edward.newell@gmail.com to arrange for the transfer of this file.
+Note, to function, this code needs an associated ~8Gb dataset, which can be downloaded [here](https://www.dropbox.com/s/6xna8p2lnfeo4zy/data.tgz?dl=0).  Untar and place the obtained data directory just inside the cloned repo directory.
 
 ## Command line
 To invoke the classifier on a list of nouns, do this:
